@@ -1,0 +1,14 @@
+ejercicios/Prueba.java
+ ejercicios.Prueba
+ejercicios/Ejercicio01.java
+ ejercicios.Ejercicio01
+ejercicios/Ejercicio02.java
+ ejercicios.Ejercicio02
+ejercicios/Ejercicio03.java
+ ejercicios.Ejercicio03
+ejercicios/Ejercicio05.java
+ ejercicios.Ejercicio05
+ejercicios/Ejercicio04.java
+ ejercicios.Ejercicio04
+ejercicios/Ejercicio06.java
+ ejercicios.Ejercicio06
